@@ -1,0 +1,10 @@
+{
+    "svn.ignoreMissingSvnWarning": true,
+    "files.associations": {
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "initializer_list": "cpp"
+    }
+}
